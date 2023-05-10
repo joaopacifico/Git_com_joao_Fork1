@@ -15,7 +15,3 @@
 **Staging area**: Area de trasnferencia de dados, adiciona os arquivos com modificações antes de submeter ao repo. local.
 
 -     Porque é importante: organizar aruqivos e msgs
-
-
-
-teste de commit
