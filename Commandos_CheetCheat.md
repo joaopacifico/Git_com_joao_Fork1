@@ -19,3 +19,7 @@
     Para enviar: git push
     
     Para receber atualizações do remoto: git pull
+
+
+
+linha nova
