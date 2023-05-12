@@ -15,3 +15,6 @@
 **Staging area**: Area de trasnferencia de dados, adiciona os arquivos com modificações antes de submeter ao repo. local.
 
 -     Porque é importante: organizar aruqivos e msgs
+
+
+Adicionando um texto no fork criado!
